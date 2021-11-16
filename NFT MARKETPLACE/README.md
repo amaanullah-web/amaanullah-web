@@ -1,5 +1,5 @@
 # nft-marketplace-website
-This is website where we are going to build a nft marketplace
+This is website pre-kit where we are going to require it for building a nft marketplace.
 
 Please download this prerequisites:
 1. Ganache
