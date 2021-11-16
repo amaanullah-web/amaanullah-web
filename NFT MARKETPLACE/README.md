@@ -1,19 +1,14 @@
-# nft-marketplace-starter-kit
-Please run npm install on the terminal to download the appropriate packages already defined to the package.json file. 
-Make sure you are in the source file. 
+# nft-marketplace-website
+This is website where we are going to build a nft marketplace
 
-**Please ensure you have downloaded the following additionally **
-
+Please download this prerequisites:
 1. Ganache
 2. Truffle (global installation)
-3. Metamask.io (hooked up on the browser)
+3. Metamask.io (on the browser)
 
-**To run the development server on a local host scripts:** npm run start
 
-For truffle tests and console please consult the official Truffle documentaion for updates.
 
-Follow the course module on Udemy to build this project from the ground up:
-https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/
+If any issues please a issue request i'll get back to you in minutes...
 
-Good luck and have fun!
+
 
